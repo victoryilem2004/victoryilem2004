@@ -1,4 +1,4 @@
-## Hi! I am Victory :)
+# Hi! I am Victory :)
 
 ## About me 👩🏾‍🎓
 
@@ -8,6 +8,12 @@ Outside of work, I enjoy photography 📸 because there’s so much the human ey
 
 - Portfolio: https://victoryilem.my.canva.site/
 - LinkedIn: https://www.linkedin.com/in/victory-ilem-iyam-262b91261/
+
+## Skills
+- Technical: SQL, Python, R, Microsoft Excel, Machine Learning
+- Data Visualization: Tableau, Powerpoint, Power BI
+- Financial: Financial Modeling, QuickBooks, Zoho Books
+- AI tools: Claude, ChatGPT, Gemini, Copilot
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
