@@ -1,7 +1,7 @@
 ## Hi! I am Victory :)
 
-Links to my socials:
-LinkedIN: https://www.linkedin.com/in/victory-ilem-iyam-262b91261/
+## About me 👩🏾‍🎓
+
 Portfolio: https://victoryilem.my.canva.site/
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
