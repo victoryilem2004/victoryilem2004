@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am Victory :) (people often mistake me as Victoria...please dont)
 
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
