@@ -6,6 +6,8 @@ I am originally from Nigeria 🇳🇬 and recently earned my Master’s in Busin
 
 Outside of work, I enjoy photography 📸 because there’s so much the human eye misses that a camera captures. I also enjoy solving logic murdles in my free time… just because😼
 
+My Github is still a work in progress so bear with me
+
 - Portfolio: https://victoryilem.my.canva.site/
 - LinkedIn: https://www.linkedin.com/in/victory-ilem-iyam-262b91261/
 
