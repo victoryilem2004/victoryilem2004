@@ -2,6 +2,7 @@
 
 ## About me 👩🏾‍🎓
 
+I am originally from Nigeria 🇳🇬 and recently earned my Master’s in Business Analytics from Carnegie Mellon University (2026). My background in accounting and finance sparked my interest in business analytics and the role data plays in helping businesses make better decisions. I enjoy exploring complex problems, finding the story within the data, and turning those insights into meaningful solutions. 
 Portfolio: https://victoryilem.my.canva.site/
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
