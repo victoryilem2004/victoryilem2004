@@ -14,7 +14,7 @@ My Github is still a work in progress so bear with me.
 ## Skills
 - Technical: SQL, Python, R, Microsoft Excel, Machine Learning
 - Data Visualization: Tableau, Powerpoint, Power BI
-- Financial: Financial Modeling, QuickBooks, Zoho Books
+- Financial: Financial Modeling, QuickBooks, Zoho Books, Power Automate
 - Database Management Systems: AWS, MongoDB, PostgreSQL, Valentina Studio, MySQL
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
