@@ -15,7 +15,7 @@ My Github is still a work in progress so bear with me.
 - Technical: SQL, Python, R, Microsoft Excel, Machine Learning
 - Data Visualization: Tableau, Powerpoint, Power BI
 - Financial: Financial Modeling, QuickBooks, Zoho Books
-- AI tools: Claude, ChatGPT, Gemini, Copilot
+- Database Management Systems: AWS, MongoDB, PostgreSQL, Valentina Studio, MySQL
 <!--
 **victoryilem2004/victoryilem2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
