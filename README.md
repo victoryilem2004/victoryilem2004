@@ -1,4 +1,4 @@
-# Hi! I am Victory :)
+# Hey there! I am Victory
 
 ## About me 👩🏾‍🎓
 
