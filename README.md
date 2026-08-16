@@ -12,7 +12,7 @@ My Github is still a work in progress so bear with me.
 - LinkedIn: https://www.linkedin.com/in/victory-ilem-iyam-262b91261/
 
 ## Skills
-- Technical: SQL, Python, R, Microsoft Excel, Machine Learning
+- Technical: SQL, Python, R, Microsoft Office (all you can name), Machine Learning
 - Data Visualization: Tableau, Powerpoint, Power BI
 - Financial: Financial Modeling, QuickBooks, Zoho Books, Power Automate
 - Database Management Systems: AWS, MongoDB, PostgreSQL, Valentina Studio, MySQL
