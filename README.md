@@ -8,7 +8,7 @@ Outside of work, I enjoy photography 📸 because there’s so much the human ey
 
 My Github is still a work in progress so bear with me.
 
-- Portfolio: https://victoryilem.my.canva.site/
+- Portfolio: https://victoryilem.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/victory-ilem-iyam-262b91261/
 
 ## Skills
